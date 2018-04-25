@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/anantoghosh/stop-watch.svg?branch=master)](https://travis-ci.org/anantoghosh/stop-watch)
+[![Build Status](https://travis-ci.org/anantoghosh/stop-watch.svg?branch=master)](https://travis-ci.org/anantoghosh/stop-watch) [![Greenkeeper badge](https://badges.greenkeeper.io/anantoghosh/stop-watch.svg)](https://greenkeeper.io/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
