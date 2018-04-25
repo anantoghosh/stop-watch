@@ -1,5 +1,5 @@
 {
-  "name": "timer4",
+  "name": "stop-watch",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
