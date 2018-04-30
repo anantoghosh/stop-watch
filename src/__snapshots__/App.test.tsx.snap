@@ -26,5 +26,6 @@ exports[`<App /> Match Snapshot 1`] = `
     </code>
      and save to reload.
   </p>
+  <Sortable />
 </div>
 `;
