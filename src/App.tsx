@@ -1,7 +1,7 @@
 import * as React from 'react';
 import './App.css';
 
-import Sortable from 'components/Soratable';
+import Sortable from './components/Sortable';
 import logo from './logo.svg';
 
 class App extends React.Component {

@@ -1,7 +1,10 @@
 {
   "compilerOptions": {
-    "strict": true,
+    "strict": false,
     "baseUrl": "./src/",
+    "paths": {
+      "*": ["react-sortable-tree", "../types/*"]
+    },
     "outDir": "build/dist",
     "module": "esnext",
     "target": "es5",
@@ -17,7 +20,7 @@
     "noImplicitAny": false,
     "strictNullChecks": true,
     "suppressImplicitAnyIndexErrors": true,
-    "noUnusedLocals": true
+    "noUnusedLocals": false
   },
   "exclude": [
     "node_modules",
