@@ -2321,11 +2321,18 @@ enzyme-matchers@^6.0.0:
     circular-json-es6 "^2.0.1"
     deep-equal-ident "^1.1.1"
 
-enzyme-to-json@^3.3.0, enzyme-to-json@^3.3.3:
+enzyme-to-json@^3.3.0:
   version "3.3.3"
   resolved "https://registry.yarnpkg.com/enzyme-to-json/-/enzyme-to-json-3.3.3.tgz#ede45938fb309cd87ebd4386f60c754525515a07"
   dependencies:
     lodash "^4.17.4"
+
+enzyme-to-json@^3.4.1:
+  version "3.4.1"
+  resolved "https://registry.yarnpkg.com/enzyme-to-json/-/enzyme-to-json-3.4.1.tgz#bd54b7fd545384e71491b67ebd8d9f456e12c02b"
+  integrity sha512-9W8fRlpDBf0hAsGnKP4OnhjkfYAyPt1ernypGg8FuIJMBv3rtshTEOPYBQCVEENrrXxsc9YbrDmk+RbhKarLcw==
+  dependencies:
+    lodash "^4.17.12"
 
 enzyme@^3.3.0:
   version "3.3.0"
@@ -4521,6 +4528,11 @@ lodash.uniq@^4.5.0:
 "lodash@>=3.5 <5", lodash@^4.13.1, lodash@^4.14.0, lodash@^4.15.0, lodash@^4.17.2, lodash@^4.17.3, lodash@^4.17.4, lodash@^4.3.0:
   version "4.17.5"
   resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.5.tgz#99a92d65c0272debe8c96b6057bc8fbfa3bed511"
+
+lodash@^4.17.12:
+  version "4.17.15"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
+  integrity sha512-8xOcRHvCjnocdS5cpwXQXVzmmh5e5+saE2QGoeQmbKmRS6J3VQppPOIt0MnmE+4xlZoumy0GPG0D0MVIQbNA1A==
 
 lodash@^4.2.0, lodash@^4.2.1:
   version "4.17.10"
